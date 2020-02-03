@@ -1,0 +1,38 @@
+h1 {
+    color:brown;
+    font-size: 25pt;
+    text-align:center;
+}
+
+body{
+    background-color:black;
+}
+
+.pimras{
+    color:white;
+}
+
+img {
+    height: 300px;
+    border: 4px solid brown;
+}
+
+h2{
+    color:red;
+    font-size:15pt;
+}
+
+.pinig{
+    height:50px;
+    border: 1px solid green;
+}
+
+ul{
+    color:azure;
+}
+
+#apacioj{
+    text-align:right;
+    color:azure;
+    font-family:cursive;
+}

@@ -1,0 +1,58 @@
+.header {
+    font-family: cursive;
+    color: red;
+    font-size: 50px;
+    text-align: center;
+}
+
+table, th, td{
+    height:50%;
+    width:80%;
+    margin: auto;
+    font-size: 30px;
+    background-color: lightblue;
+}
+
+.lentimg {
+    height: 300px;
+}
+
+body {
+    background-color: lightgreen;
+}
+a:link, a:visited {
+    color:blue;
+}
+
+a:hover, a:active {
+    height: 320px;
+}
+
+.link:hover{
+    height: 335px;
+}
+a:link {
+    color: #000000;
+    text-decoration: none;
+} 
+.header2 {
+    text-align:center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+    font-size: 40px;
+}
+h2{
+    font-size: 33px;
+    color: black;
+}
+li {
+    font-size:20px;
+    font-family: helvetica;
+}
+.lentimg1 {
+ height=300px;
+ orientation: landscape;
+}
+#nom {
+    text-align:right;
+}

@@ -1,0 +1,108 @@
+.head {
+    background-color:white;
+    padding:7px;
+    height:60px;
+    margin-top:0px;
+    top:0px;
+}
+body{
+    background-color:lightgray;
+}
+
+.pav{
+    float:left;
+    font-size:30px;
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    margin:auto;
+    padding:10px;
+    text-decoration:bold;
+}
+
+.apie{
+    float:right;
+    padding:10px;
+    margin:auto;
+    font-size:20px;
+}
+
+
+
+.home{
+    float:right;
+    text-decoration:none;
+    color:gray;
+    font-family: Arial, Helvetica, sans-serif;
+    margin:auto;
+    padding:10px;
+    font-size:20px;
+}
+
+.apie a:hover {
+    color:black;
+}
+
+.home a:hover {
+    color:black;
+}
+
+
+
+a{
+    text-decoration:none;
+    color:gray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    margin:0px;
+}
+.arti{
+width:700px;
+padding:25px;
+background-color:azure;
+margin-top:10px;
+height:250px;
+margin-left:15px;
+}
+
+.nuot {
+    float:left;
+    margin:auto;
+    display:block;
+}
+
+img {
+    width:300px;
+}
+
+.teks1{
+    float:right;
+    width:350px;
+    font-size:18px;
+    display:block;
+}
+
+.arti:hover{
+    width:730px;
+    height:260px;
+}
+
+.apiee{
+    width:95%;
+    background-color: gray;
+    padding:20px;
+    
+}
+
+.apieee{
+    background-color:white;
+}
+.arti2{
+    width:90000px;
+    padding:25px;
+    background-color:azure;
+    margin-top:10px;
+    height:250px;
+    margin-left:15px;
+    }
